@@ -1,4 +1,4 @@
 while(true){
-    window.setTimeout(10000);
+    wait(1000);
     window.open("SoNotFunny.html");
 }
