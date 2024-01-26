@@ -7,3 +7,5 @@ function myHardFunction() {
     window.open('SoNotFunnyHard.html', "_blank");
     close();
 }
+
+// :)
